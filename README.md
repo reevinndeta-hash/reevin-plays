@@ -3,7 +3,7 @@
 Welcome to my professional gaming journalism portfolio. This repository showcases my work in game reviews, culture analysis, and feature storytelling.
 
 ## About Me
-I'm a Kenyan gaming writer passionate about interactive storytelling, player psychology, and the evolving culture of games. I focus on creating bold, engaging content that explores narrative, design, and player experience.
+I'm a Kenyan article,content gaming writer passionate about interactive storytelling, player psychology, and the evolving culture of games. I focus on creating bold, engaging content that explores narrative, design, and player experience.
 
 ## Featured Articles
 
