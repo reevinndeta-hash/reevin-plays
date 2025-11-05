@@ -14,9 +14,9 @@ Explore how modern open-world games like *Elden Ring* and *Breath of the Wild* b
 A deep dive into the rise of cozy games such as *Stardew Valley* and *Spiritfarer*, examining how they provide emotional healing, calm, and player connection in a fast-paced world.
 
 ## Contact
-- Email: reevin@example.com
+- Email: reevinndeta@gmail.com
 - LinkedIn: [reevinouma]
-- Twitter/X: [Your Twitter link]
+- Twitter/X: reevinouma
 - Portfolio Website: [Live Site Link]
 
 ---
