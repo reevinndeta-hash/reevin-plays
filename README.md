@@ -3,7 +3,7 @@
 Welcome to my professional gaming journalism portfolio. This repository showcases my work in game reviews, culture analysis, and feature storytelling.
 
 ## About Me
-I'm a Kenyan gaming writer passionate about interactive storytelling, player psychology, and the evolving culture of games. I focus on creating bold, engaging content that explores narrative, design, and player experience.
+I'm a Kenyan article,content gaming writer passionate about interactive storytelling, player psychology, and the evolving culture of games. I focus on creating bold, engaging content that explores narrative, design, and player experience.
 
 ## Featured Articles
 
@@ -14,7 +14,7 @@ Explore how modern open-world games like *Elden Ring* and *Breath of the Wild* b
 A deep dive into the rise of cozy games such as *Stardew Valley* and *Spiritfarer*, examining how they provide emotional healing, calm, and player connection in a fast-paced world.
 
 ## Contact
-- Email: reevin@example.com
+- Email: reevinndeta@gmail.com
 - LinkedIn: [reevinouma]
 - Twitter/X: [Your Twitter link]
 - Portfolio Website: [Live Site Link]
